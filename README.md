@@ -1,6 +1,6 @@
 # otaciliomaia
 
-> The [Otacilio Maia](https://otaciliomaia.com)
+> The [Otacilio Maia](https://otaciliomaia.com) CLI
 
 
 
