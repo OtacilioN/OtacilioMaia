@@ -21,7 +21,7 @@ $ otaciliomaia
 To install on Node projects, run:
 
 ```bash
-$ npm install alefesouza
+$ npm install otaciliomaia
 ```
 
 and
