@@ -43,6 +43,14 @@ const items = [
     url: "https://www.instagram.com/itsotariocilio/"
   },
   {
+    label: "Email",
+    url: "mailto:contato@otaciliomaia.com"
+  },
+  {
+    label: "Medium",
+    url: "https://medium.com/@OtacilioN"
+  },
+  {
     label: "Quit",
     action() {
       process.exit();
