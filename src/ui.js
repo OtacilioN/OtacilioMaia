@@ -3,8 +3,8 @@
 const { h, Text, Color } = require("ink");
 const SelectInput = require("ink-select-input");
 const opn = require("opn");
-import Gradient from "ink-gradient";
-import BigText from "ink-big-text";
+const Gradient = require("ink-gradient");
+const BigText = require("ink-big-text");
 const open = url => opn(url, { wait: false });
 
 const handleSelect = item => {
