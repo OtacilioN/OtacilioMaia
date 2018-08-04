@@ -38,6 +38,10 @@ const items = [
     url: "https://www.facebook.com/otacilio.neto.7"
   },
   {
+    label: "Instagram",
+    url: "https://www.instagram.com/itsotariocilio/"
+  },
+  {
     label: "Quit",
     action() {
       process.exit();
