@@ -1,6 +1,6 @@
 {
   "name": "otaciliomaia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Otacilio Maia CLI",
   "main": "./index.json",
   "scripts": {

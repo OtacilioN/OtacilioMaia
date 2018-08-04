@@ -3,7 +3,8 @@
 const { h, Text, Color } = require("ink");
 const SelectInput = require("ink-select-input");
 const opn = require("opn");
-
+import Gradient from "ink-gradient";
+import BigText from "ink-big-text";
 const open = url => opn(url, { wait: false });
 
 const handleSelect = item => {
@@ -52,8 +53,17 @@ const items = [
 module.exports = () => (
   <div>
     <div>
+      <Gradient name="summer">
+        <BigText text="Otacilio Maia" />
+      </Gradient>
+    </div>
+    <br />
+
+    <div>
       <Text>Hi, I am Otacilio Maia, it is a pleasure to meet you!</Text>
     </div>
+    <br />
+
     <div>
       <Text>
         I love people and robots, not exactly in this order. Feel free to
